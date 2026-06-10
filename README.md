@@ -1,8 +1,8 @@
 ## hello there 👋
 
-perkenalkan nama saya, **kalyla nursyifa azzahra** </br>
+perkenalkan nama saya, **andi kalyla nursyifa azzahra** </br>
 
-- 🔭 i’m currently studying at SMK TELKOM MAKASSAR
+- 🔭 currently studying at SMK TELKOM MAKASSAR
 - 🌱 and i’m currently learning *software engineering*
 - 📫 how to reach me: **@kalilasyifaa**
 - ⚡ fun fact: i really love to sleep, and talking to people i really enjoy talking to. </br>
