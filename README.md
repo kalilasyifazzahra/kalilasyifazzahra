@@ -97,5 +97,5 @@ nothing to commit, everything is looking pretty
 </p>
 
 <p align="center">
-  <i>What, like it's hard? 🪽</i>
+  what, like it's hard?
 </p>
