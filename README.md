@@ -14,8 +14,6 @@
 
 ## 🌸 About Me
 
-Halo, perkenalkan nama saya **Andi Kalyla Nursyifa Azzahra**! 👋
-
 -   Currently studying at **SMK Telkom Makassar**
 -   Currently learning **Software Engineering**
 -   How to reach me: **[@kalilasyifaa](https://instagram.com/kalilasyifaa)**
