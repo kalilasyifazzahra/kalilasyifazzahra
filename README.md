@@ -16,27 +16,26 @@
 
 Halo, perkenalkan nama saya **Andi Kalyla Nursyifa Azzahra**! 👋
 
-- 🔭 Currently studying at **SMK Telkom Makassar**
-- 🌱 Currently learning **Software Engineering**
-- 📫 How to reach me: **[@kalilasyifaa](https://instagram.com/kalilasyifaa)**
-- 🎯 Goal: build cool things & grow into a great software engineer
+-   Currently studying at **SMK Telkom Makassar**
+-   Currently learning **Software Engineering**
+-   How to reach me: **[@kalilasyifaa](https://instagram.com/kalilasyifaa)**
 
 ```js
 class Developer {
   name = "Andi Kalyla Nursyifa Azzahra";
   school = "SMK Telkom Makassar";
   major = "Software Engineering";
-  status = "learning & building, one commit at a time 🌱";
+  status = "creating things with a little extra sparkle
 
   whenBugFound() {
-    console.log("it's not a bug, it's a feature ✨");
+    console.log("what like it's hard?");
   }
 }
 ```
 
 ---
 
-## 🛠️ Tech I'm Learning
+## 🛠️ Tech I'm Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -48,9 +47,6 @@ class Developer {
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
-
-> 💡 Ganti / tambah badge sesuai teknologi yang beneran kamu pakai ya!
-> Cari badge lain di [shields.io](https://shields.io) atau [simple-icons](https://simpleicons.org).
 
 ---
 
@@ -74,8 +70,8 @@ class Developer {
 ```bash
 $ git status
 On branch main
-Your branch is learning every day 🌸
-nothing to commit, working tree clean (and heart too) 💖
+Your branch is looking fabulous 💅
+nothing to commit, everything to glow up ✨
 ```
 
 ---
