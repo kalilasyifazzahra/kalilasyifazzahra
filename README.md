@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 🪽</h1>
+<h1 align="center">Hello there! ᜊ( ᴗ͈ˬᴗ͈)ᜊ </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F4A6C1&center=true&vertical=true&width=500&lines=Andi+Kalyla+Nursyifa+Azzahra;Software+Engineering+Student;Pink%2C+polished+%26+fully+functional" alt="Typing SVG" />
@@ -37,7 +37,7 @@ class Developer {
 
 ---
 
-## 🪽 Tech Stack
+## ໒꒱ her tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-F4A6C1?style=flat-square&logo=html5&logoColor=white" />
@@ -47,7 +47,7 @@ class Developer {
   <img src="https://img.shields.io/badge/MySQL-E8A0BF?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## 🪽 Tools I Use
+## ໒꒱ tools she use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F4A6C1?style=flat-square&logo=git&logoColor=white" />
@@ -58,7 +58,7 @@ class Developer {
 
 ---
 
-## 🪽 GitHub Statistics
+## ໒꒱ github statics
 
 <p align="center">
   <a href="https://github.com/kalilasyifazzahra">
@@ -73,7 +73,7 @@ class Developer {
 
 ---
 
-## 🪽 Current Status
+## ໒꒱ current status
 
 ```bash
 $ git status
@@ -85,7 +85,7 @@ nothing to commit, everything is looking pretty
 
 ---
 
-## 🪽 Let's Connect
+## ໒꒱ let's connect
 
 <p align="center">
   <a href="https://instagram.com/kalilasyifaa">
