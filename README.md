@@ -1,6 +1,14 @@
-<h1 align="center">Hello there, I'm Kalyla 👋</h1>
+<h1 align="center">Hello there!</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A8B8&center=true&vertical=true&width=500&lines=Andi+Kalyla+Nursyifa+Azzahra;Software+Engineering+Student+%F0%9F%92%BB;Pink%2C+polished+%26+fully+functional+%F0%9F%92%97" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/SMK%20Telkom-Makassar-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-Software%20Engineering-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Debugging%20🐛-ff69b4?style=for-the-badge" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A8B8&center=true&vertical=true&width=500&lines=Andi+Kalyla+Nursyifa+Azzahra;Software+Engineering+Student+%F0%9F%92%BB;Pink%2C+polished+%26+fully+functional+%F0%9F%92%97" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SMK%20Telkom-Makassar-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Debugging%20🐛-ff69b4?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SMK%20Telkom-Makassar-red?style=for-the-badge" />
